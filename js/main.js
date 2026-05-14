@@ -1,1 +1,5 @@
-console.log("que miras papa 1")
+numA = 30
+numB = 20
+
+res = numB - numA
+console.log(res)
